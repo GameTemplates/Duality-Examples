@@ -1,0 +1,239 @@
+[Edit] Msg: Synchronizing Local Package Setup...
+[Edit] Msg:   Removing unregistered packages...
+[Edit] Msg:   Verifying registered packages...
+[Edit] Msg:     Installing package 'AdamsLair.Duality 2.14.9.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Primitives 2.0.7'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Primitives 2.0.7'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Primitives 2.0.7'...
+[Edit] Msg:       Installing 'AdamsLair.NVorbis 0.7.5'.
+[Edit] Msg:       Successfully installed 'AdamsLair.NVorbis 0.7.5'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.NVorbis 0.7.5'...
+[Edit] Msg:       Installing 'AdamsLair.FarseerDuality 4.1.4'.
+[Edit] Msg:       Successfully installed 'AdamsLair.FarseerDuality 4.1.4'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.FarseerDuality 4.1.4'...
+[Edit] Msg:       Installing 'AdamsLair.Duality 2.14.9'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality 2.14.9'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality 2.14.9'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Launcher 2.3.4.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Launcher 2.3.4'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Launcher 2.3.4'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Launcher 2.3.4'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Backend.DotNetFramework 2.1.1.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Backend.DotNetFramework 2.1.1'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Backend.DotNetFramework 2.1.1'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Backend.DotNetFramework 2.1.1'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Plugins.Compatibility 2.0.2.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Plugins.Compatibility 2.0.2'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Plugins.Compatibility 2.0.2'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Plugins.Compatibility 2.0.2'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Docs 2.0.1.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Docs 2.0.1'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Docs 2.0.1'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Docs 2.0.1'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Backend.DefaultOpenTK 2.0.22.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.OpenTK (≥ 1.1.10)'.
+[Edit] Msg:       Installing 'AdamsLair.OpenTK 1.1.10'.
+[Edit] Msg:       Successfully installed 'AdamsLair.OpenTK 1.1.10'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.OpenTK 1.1.10'...
+[Edit] Msg:       Installing 'AdamsLair.Duality.Backend.DefaultOpenTK 2.0.22'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Backend.DefaultOpenTK 2.0.22'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Backend.DefaultOpenTK 2.0.22'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor 2.10.19.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.9)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.DockPanelSuite 2.8.1.0'.
+[Edit] Msg:       Successfully installed 'AdamsLair.DockPanelSuite 2.8.1.0'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.DockPanelSuite 2.8.1.0'...
+[Edit] Msg:       Installing 'AdamsLair.TreeViewAdv 1.7.6.0'.
+[Edit] Msg:       Successfully installed 'AdamsLair.TreeViewAdv 1.7.6.0'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.TreeViewAdv 1.7.6.0'...
+[Edit] Msg:       Installing 'AdamsLair.WinForms.PopupControl 1.0.0.0'.
+[Edit] Msg:       Successfully installed 'AdamsLair.WinForms.PopupControl 1.0.0.0'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.WinForms.PopupControl 1.0.0.0'...
+[Edit] Msg:       Installing 'AdamsLair.WinForms 1.1.15'.
+[Edit] Msg:       Successfully installed 'AdamsLair.WinForms 1.1.15'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.WinForms 1.1.15'...
+[Edit] Msg:       Installing 'Microsoft.Web.Xdt 2.1.1'.
+[Edit] Msg:       Successfully installed 'Microsoft.Web.Xdt 2.1.1'.
+[Edit] Msg:       Integrating install of package 'Microsoft.Web.Xdt 2.1.1'...
+[Edit] Msg:       Installing 'NuGet.Core 2.8.3'.
+[Edit] Msg:       Successfully installed 'NuGet.Core 2.8.3'.
+[Edit] Msg:       Integrating install of package 'NuGet.Core 2.8.3'...
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor 2.10.19'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor 2.10.19'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor 2.10.19'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.Base 2.3.1.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.9)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.19)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.Base 2.3.1'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.Base 2.3.1'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.Base 2.3.1'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.CamView 2.6.8.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.9)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.18)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.CamView 2.6.8'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.CamView 2.6.8'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.CamView 2.6.8'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.HelpAdvisor 2.0.6.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.HelpAdvisor 2.0.6'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.HelpAdvisor 2.0.6'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.HelpAdvisor 2.0.6'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.LogView 2.1.10.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.LogView 2.1.10'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.LogView 2.1.10'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.LogView 2.1.10'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.ObjectInspector 2.1.4.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.16)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.ObjectInspector 2.1.4'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.ObjectInspector 2.1.4'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.ObjectInspector 2.1.4'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.ProjectView 2.0.16.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.ProjectView 2.0.16'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.ProjectView 2.0.16'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.ProjectView 2.0.16'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.SceneView 2.0.18.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.9)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.17)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.SceneView 2.0.18'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.SceneView 2.0.18'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.SceneView 2.0.18'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Plugins.PackageManagerFrontend 2.1.4.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.11)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Plugins.PackageManagerFrontend 2.1.4'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Plugins.PackageManagerFrontend 2.1.4'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Plugins.PackageManagerFrontend 2.1.4'...
+[Edit] Msg:     Installing package 'AdamsLair.Duality.Editor.Backend.DefaultOpenTK 2.0.7.0'...
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Backend.DefaultOpenTK (≥ 2.0.21)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality (≥ 2.14.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Primitives (≥ 2.0.7)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.NVorbis (≥ 0.7.5)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.FarseerDuality (≥ 4.1.4)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.OpenTK (≥ 1.1.10)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.Duality.Editor (≥ 2.10.8)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.DockPanelSuite (≥ 2.8.1)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.TreeViewAdv (≥ 1.7.6)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms (≥ 1.1.15)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.WinForms.PopupControl (≥ 1.0.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'NuGet.Core (≥ 2.8.3)'.
+[Edit] Msg:       Attempting to resolve dependency 'Microsoft.Web.Xdt (≥ 2.1.0)'.
+[Edit] Msg:       Attempting to resolve dependency 'AdamsLair.OpenTK.GLControl (≥ 1.1.10)'.
+[Edit] Msg:       Installing 'AdamsLair.OpenTK.GLControl 1.1.10'.
+[Edit] Msg:       Successfully installed 'AdamsLair.OpenTK.GLControl 1.1.10'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.OpenTK.GLControl 1.1.10'...
+[Edit] Msg:       Installing 'AdamsLair.Duality.Editor.Backend.DefaultOpenTK 2.0.7'.
+[Edit] Msg:       Successfully installed 'AdamsLair.Duality.Editor.Backend.DefaultOpenTK 2.0.7'.
+[Edit] Msg:       Integrating install of package 'AdamsLair.Duality.Editor.Backend.DefaultOpenTK 2.0.7'...
+[Edit] Msg: Applying package update...
+[Edit] Msg:   Preparing updater...
+[Edit] Msg:   Running updater...

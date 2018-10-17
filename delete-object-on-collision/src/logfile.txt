@@ -1,0 +1,136 @@
+[Core] Msg: Running DualityLauncher with flags: RunFromEditor
+[Core] Msg: Using 'DefaultPluginLoader' to load plugins.
+[Core] Msg: Environment Info:
+              Current Directory: C:\Users\szoszo\Desktop\Projects\gametemplates\Duality\delete-object-on-collision\src
+              Command Line: "C:\Users\szoszo\Desktop\Projects\gametemplates\Duality\delete-object-on-collision\src\DualityLauncher.exe" editor
+              Operating System: Windows 8 or higher (Microsoft Windows NT 6.2.9200.0)
+              64 Bit OS: True
+              64 Bit Process: True
+              CLR Version: 4.0.30319.42000
+              Processor Count: 4
+              Processor Type: Intel64 Family 6 Model 15 Stepping 11, GenuineIntel
+              Processor Architecture: AMD64
+[Core] Msg: Currently Loaded Assemblies:
+              mscorlib 4.0.0.0
+              DualityLauncher 2.3.4.0
+              Duality 2.14.9.0
+              System.Runtime 4.0.0.0
+              System.Core 4.0.0.0
+              System 4.0.0.0
+              System.IO 4.0.0.0
+              System.Reflection 4.0.0.0
+              DualityPrimitives 2.0.7.0
+              System.Collections 4.0.0.0
+              System.Linq 4.0.0.0
+              System.Runtime.Extensions 4.0.0.0
+              System.Globalization 4.0.0.0
+              System.Diagnostics.Debug 4.0.0.0
+[Core] Msg: Plugin Base Directories:
+              Plugins
+[Core] Msg: Available Assembly Paths:
+              Plugins\CamView.editor.dll
+              Plugins\Compatibility.core.dll
+              Plugins\DefaultOpenTKBackend.core.dll
+              Plugins\DefaultOpenTKBackend.editor.dll
+              Plugins\DotNetFrameworkBackend.core.dll
+              Plugins\EditorBase.editor.dll
+              Plugins\GamePlugin.core.dll
+              Plugins\HelpAdvisor.editor.dll
+              Plugins\LogView.editor.dll
+              Plugins\ObjectInspector.editor.dll
+              Plugins\OpenALSoft32.dll
+              Plugins\OpenALSoft64.dll
+              Plugins\PackageManagerFrontend.editor.dll
+              Plugins\ProjectView.editor.dll
+              Plugins\SceneView.editor.dll
+[Core] Msg: Assembly loaded: System.Threading 4.0.0.0
+[Core] Msg: Scanning for core plugins...
+[Core] Msg:   Plugins\Compatibility.core.dll...
+[Core] Msg:     Assembly loaded: Compatibility.core 2.0.2.0
+[Core] Msg:     Assembly loaded: System.Linq.Expressions 4.0.0.0
+[Core] Msg:     Assembly loaded: Anonymously Hosted DynamicMethods Assembly 0.0.0.0
+[Core] Msg:   Plugins\DefaultOpenTKBackend.core.dll...
+[Core] Msg:     Assembly loaded: DefaultOpenTKBackend.core 2.0.22.0
+[Core] Msg:     Assembly loaded: OpenTK 1.1.10.0
+[Core] Msg:   Plugins\DotNetFrameworkBackend.core.dll...
+[Core] Msg:     Assembly loaded: DotNetFrameworkBackend.core 2.1.1.0
+[Core] Msg:   Plugins\GamePlugin.core.dll...
+[Core] Msg:     Assembly loaded: GamePlugin.core 1.0.0.0
+[Core] Msg: Loading auxiliary libraries...
+[Core] Msg: Initializing ISystemBackend...
+[Core] Msg:   Assembly loaded: System.Text.RegularExpressions 4.0.0.0
+[Core] Msg:   .Net Framework...
+[Core] Msg: Assembly loaded: System.Xml.ReaderWriter 4.0.0.0
+[Core] Msg: Assembly loaded: System.Xml 4.0.0.0
+[Core] Msg: Assembly loaded: System.Xml.XDocument 4.0.0.0
+[Core] Msg: Assembly loaded: System.Xml.Linq 4.0.0.0
+[Core] Msg: Assembly loaded: System.Text.Encoding 4.0.0.0
+[Core] Msg: Assembly loaded: System.Reflection.Extensions 4.0.0.0
+[Core] Msg: Initializing IGraphicsBackend...
+[Core] Msg:   OpenGL 2.1 (OpenTK)...
+[Core] Msg:     Initializing OpenTK...
+[Core] Msg:       Platform Backend: PreferNative
+                  EnableHighResolution: True
+[Core] Msg:     Assembly loaded: System.Drawing 4.0.0.0
+[Core] Msg:     Available display devices:
+[Core] Msg:       First : 1680x1050 at  59 Hz, 32 bpp, pos [   0,   0] (Primary)
+[Core] Msg: Initializing IAudioBackend...
+[Core] Msg:   OpenAL (OpenTK)...
+[Core] Msg:     OpenAL Drivers installed in C:\WINDOWS\system32\OpenAL32.dll
+[Core] Msg:     Available devices:
+                  Generic Software on Speakers (Realtek High Definition Audio) (Default)
+                  Generic Software on Speakers (Steam Streaming Speakers)
+                  Generic Software on Speakers (Steam Streaming Microphone)
+[Core] Msg:     Current device: Generic Software
+[Core] Msg:     OpenAL Version: 1.1
+                Vendor: Creative Labs Inc.
+                Renderer: Software
+                Effects: True
+[Core] Msg:     256 sources available
+[Core] Msg: Initializing core plugins...
+[Core] Msg:   Compatibility.core...
+[Core] Msg:   DefaultOpenTKBackend.core...
+[Core] Msg:   DotNetFrameworkBackend.core...
+[Core] Msg:   GamePlugin.core...
+[Core] Msg: DualityApp initialized
+            Debug Mode: False
+            Command line arguments: editor
+[Core] Msg: Opening Window...
+[Core] Msg:   Window Specification: 
+                Buffers: 2
+                Samples: 0
+                ColorFormat: 32 (8888)
+                AccumFormat: 64 (16161616)
+                Depth: 24
+                Stencil: 0
+                VSync: Off
+                SwapInterval: 0
+[Core] Msg:   OpenGL Version: 4.6.0 NVIDIA 388.13
+              Vendor: NVIDIA Corporation
+              Renderer: GeForce GTX 750 Ti/PCIe/SSE2
+              Shader Version: 4.60 NVIDIA
+[Core] Msg: Initializing default content...
+[Core] Msg:   Assembly loaded: System.Runtime.InteropServices 4.0.0.0
+[Core] Msg:   Assembly loaded: System.Collections.Concurrent 4.0.0.0
+[Core] Msg:   Assembly loaded: System.Threading.Tasks.Parallel 4.0.0.0
+[Core] Msg:   Assembly loaded: NVorbis 0.7.5.0
+[Core] Msg:   ...done!
+[Core] Msg: Assembly loaded: FarseerDuality 4.1.4.0
+[Core] Msg: Loading Resource 'Data\Scene.Scene.res'
+[Core] Msg:   Loading Resource 'Data\asteroid1.Prefab.res'
+[Core] Msg:   Loading Resource 'Data\asteroid2.Prefab.res'
+[Core] Msg: Loading Resource 'Data\Roboto-Regular.Font.res'
+[Core] Msg: Loading Resource 'Data\orange-ship.Material.res'
+[Core] Msg:   Loading Resource 'Data\orange-ship.Texture.res'
+[Core] Msg:     Loading Resource 'Data\orange-ship.Pixmap.res'
+[Core] Msg: Loading Resource 'Data\meteorBrown_big1.Material.res'
+[Core] Msg:   Loading Resource 'Data\meteorBrown_big1.Texture.res'
+[Core] Msg:     Loading Resource 'Data\meteorBrown_big1.Pixmap.res'
+[Core] Msg: Loading Resource 'Data\meteorBrown_big2.Material.res'
+[Core] Msg:   Loading Resource 'Data\meteorBrown_big2.Texture.res'
+[Core] Msg:     Loading Resource 'Data\meteorBrown_big2.Pixmap.res'
+[Core] Msg: Determining OpenGL context capabilities...
+[Core] Msg: Shutting down OpenGL 2.1 (OpenTK)...
+[Core] Msg: Shutting down OpenAL (OpenTK)...
+[Core] Msg: Shutting down .Net Framework...
+[Core] Msg: DualityApp terminated
