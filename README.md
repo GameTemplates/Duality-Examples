@@ -5,4 +5,4 @@ All the examples are completely free to use for any purposes. Note: Images, soun
 
 In case you like what we do, you can support us with a small amount of donation at: https://gametemplates.itch.io/duality-examples
 
-You can also contributo with new examples or help improving the existing ones.
+You can also contribute with new examples or help improving the existing ones.
